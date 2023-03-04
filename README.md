@@ -1,2 +1,2 @@
-# Lektas.github.io
+# Lektas
 мой первый сайт
